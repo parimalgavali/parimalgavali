@@ -10,7 +10,6 @@ I build end-to-end AI applications that combine **machine learning**, **backend 
 
 - 🛡️ **Insurance intelligence** — AI-assisted claims triage, document intelligence, policy workflows, and human review
 - 🏥 **Clinical decision support** — early sepsis prediction using classical ML, LSTM, and GRU models
-- 🏏 **Cricket intelligence** — LLM-powered exploration and analysis of cricket data
 - 🔍 **Responsible AI** — explainability, auditability, observability, and human-in-the-loop controls
 
 ---
@@ -30,10 +29,6 @@ A full-stack insurance claims and policy intelligence platform inspired by real 
 A clinical decision-support research project that investigates how predictive performance changes across early-warning horizons. It compares classical machine-learning baselines with LSTM and GRU models and evaluates how early sequential models can detect sepsis.
 
 **Technology:** Python · PyTorch · Scikit-learn · Pandas · Time-series ML · Clinical data analysis
-
-### Cricket LLM — In Development 🏏
-
-An intelligent cricket analytics system designed to answer natural-language questions and generate useful insights from structured cricket data.
 
 ---
 
@@ -81,12 +76,9 @@ I'm open to conversations about AI/ML engineering, applied research, software pr
 
 [![GitHub](https://img.shields.io/badge/GitHub-parimalgavali-181717?style=for-the-badge&logo=github)](https://github.com/parimalgavali)
 
-<!-- Add your LinkedIn badge here when ready:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parimal_Gavali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parimal_Gavali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parimal-gavali/)
 
-<!-- Add your professional email badge here when ready:
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
--->
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parimalgavali.dev@gmail.com)
+
 
 > Building AI systems that turn complex information into practical decisions.
